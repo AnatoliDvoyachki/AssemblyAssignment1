@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>D:\OneDrive - ViaUC\Workspace\Semester 3\CAL1\Atmel\Hand-in1\Hand-in1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\OneDrive - ViaUC\Workspace\Semester 3\CAL1\Atmel\Hand-in1\Hand-in1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\OneDrive - ViaUC\Workspace\Semester 3\CAL1\Atmel\Hand-in1\Hand-in1\Debug\Hand-in1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Hand-in1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Hand-in1.map</FILE>
+  <FILE>Hand-in1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INFINITE_LOOP><FILE>D:\OneDrive - ViaUC\Workspace\Semester 3\CAL1\Atmel\Hand-in1\Hand-in1\main.asm</FILE><LINE>172</LINE></INFINITE_LOOP>
+  <COUNTUP_SLOW><FILE>D:\OneDrive - ViaUC\Workspace\Semester 3\CAL1\Atmel\Hand-in1\Hand-in1\main.asm</FILE><LINE>174</LINE></COUNTUP_SLOW>
+  <DELAY><FILE>D:\OneDrive - ViaUC\Workspace\Semester 3\CAL1\Atmel\Hand-in1\Hand-in1\main.asm</FILE><LINE>222</LINE></DELAY>
+  <COUNTDOWN_FAST><FILE>D:\OneDrive - ViaUC\Workspace\Semester 3\CAL1\Atmel\Hand-in1\Hand-in1\main.asm</FILE><LINE>186</LINE></COUNTDOWN_FAST>
+  <COUNTDOWN_SLOW><FILE>D:\OneDrive - ViaUC\Workspace\Semester 3\CAL1\Atmel\Hand-in1\Hand-in1\main.asm</FILE><LINE>198</LINE></COUNTDOWN_SLOW>
+  <COUNTUP_FAST><FILE>D:\OneDrive - ViaUC\Workspace\Semester 3\CAL1\Atmel\Hand-in1\Hand-in1\main.asm</FILE><LINE>210</LINE></COUNTUP_FAST>
+  <DELAY_OUTER><FILE>D:\OneDrive - ViaUC\Workspace\Semester 3\CAL1\Atmel\Hand-in1\Hand-in1\main.asm</FILE><LINE>224</LINE></DELAY_OUTER>
+  <DELAY_MIDDLE><FILE>D:\OneDrive - ViaUC\Workspace\Semester 3\CAL1\Atmel\Hand-in1\Hand-in1\main.asm</FILE><LINE>226</LINE></DELAY_MIDDLE>
+  <DELAY_INNER><FILE>D:\OneDrive - ViaUC\Workspace\Semester 3\CAL1\Atmel\Hand-in1\Hand-in1\main.asm</FILE><LINE>228</LINE></DELAY_INNER>
+ </LABELS>
+</ASSEMBLER_INFO>
